@@ -1,0 +1,16 @@
+{
+    "auto_formatting": true,
+    "auto_formatting_ignore":
+    [
+        "E309"
+    ],
+    "anaconda_linting": false
+
+
+
+
+
+
+
+
+}
